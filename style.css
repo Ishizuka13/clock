@@ -41,7 +41,6 @@ h1 {
     transform-origin: left;
     display: flex;
     justify-content: flex-end;
-    background-color: red;
 }
 .risco .ponto {
     width: 15px;
